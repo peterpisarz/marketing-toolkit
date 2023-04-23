@@ -1,7 +1,5 @@
-Thanks for purchasing the marketing toolkit!
+Clone the Repository to a local folder
 
-Watch the video for step-by-step setup instructions & free hosting option.
+Edit the file, code/index.html
 
-See you inside the bootcamp!
-
---Gregory
+Share with no one else :)
